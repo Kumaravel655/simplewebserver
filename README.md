@@ -63,7 +63,7 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
  
-![OUTPUT]:(./static/img/o1.png)
+![OUTPUT](./static/img/o1.png)
 
 ## RESULT:
 Thus a simple webserver is designed for to display multiplication table and is hosted in the URL http://kumaravel.student.saveetha.in.
